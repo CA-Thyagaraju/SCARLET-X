@@ -35,9 +35,9 @@ SCARLET-X is an **Arduino-based intelligent traffic management system** that opt
 SCARLET-X can be tested using **Tinkercad** for virtual simulations before deploying it on hardware.
 
 ### 📂 Repository Files
-- **`scarlet-x.ino`** – Arduino source code
+- **`SCARLET-X_Arduino.ino`** – Arduino source code
 - **Circuit Diagram** – Wiring layout for components
-- **Tinkercad Link** – [Click here](#) ([Replace with actual link](https://www.tinkercad.com/things/b25ZgQvm2as-project-scarlet-x))
+- **Tinkercad Link** – [Click here](https://www.tinkercad.com/things/b25ZgQvm2as-project-scarlet-x)
 
 ---
 
