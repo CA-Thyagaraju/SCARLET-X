@@ -64,5 +64,5 @@ Pull requests are welcome! If you'd like to contribute, please fork the repo and
 ---
 
 ## 📧 Contact
-For any queries, reach out to **Achutha Thyagaraju** at [your.email@example.com](mailto:ca_thyagaraju2000@gmail.com).
+For any queries, reach out to **Achutha Thyagaraju** at [ca_thyagaraju2000@gmail.com](mailto:ca_thyagaraju2000@gmail.com).
 
