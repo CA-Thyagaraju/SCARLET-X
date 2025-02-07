@@ -27,7 +27,7 @@ SCARLET-X is an **Arduino-based intelligent traffic management system** that opt
 1. **Normal Traffic Light Cycle** – The system follows a standard traffic sequence: **Green → Yellow → Red**.
 2. **Pedestrian Request** – If the pedestrian button is pressed, the system ensures safe crossing by shifting the signals accordingly.
 3. **Vehicle Detection** – The HC-SR04 sensor detects approaching vehicles; if none are detected for **30 seconds**, the light stays red to save power.
-4. **Resuming Normal Cycle** – When a vehicle is detected, the system resumes the standard traffic light sequence.
+4. **Resuming Normal Cycle** – The system resumes the standard traffic light sequence when a vehicle is detected.
 
 ---
 
@@ -37,7 +37,7 @@ SCARLET-X can be tested using **Tinkercad** for virtual simulations before deplo
 ### 📂 Repository Files
 - **`scarlet-x.ino`** – Arduino source code
 - **Circuit Diagram** – Wiring layout for components
-- **Tinkercad Link** – [Click here](#) (Replace with actual link)
+- **Tinkercad Link** – [Click here](#) ([Replace with actual link](https://www.tinkercad.com/things/b25ZgQvm2as-project-scarlet-x))
 
 ---
 
@@ -46,15 +46,10 @@ SCARLET-X can be tested using **Tinkercad** for virtual simulations before deplo
    ```bash
    git clone https://github.com/yourusername/SCARLET-X.git
    ```
-2. Open `scarlet-x.ino` in Arduino IDE.
-3. Upload the code to an **Arduino UNO**.
-4. Assemble the circuit as per the provided diagram.
-5. Run the system and observe the adaptive traffic control in action.
-
----
-
-## 📷 Demo & Screenshots
-(TBD: Add images or GIFs showing SCARLET-X in action)
+2. Open `SCARLET-X_Arduino.ino` in Arduino IDE.
+4. Upload the code to an **Arduino UNO**.
+5. Assemble the circuit as per the provided diagram.
+6. Run the system and observe the adaptive traffic control in action.
 
 ---
 
